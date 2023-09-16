@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Esref</h1>
-<h3 align="center">Entrepreneur, Co-founder of @studiobillion, motorider, software nerd, actino addict, DIY maker etc etc</h3>
+<h3 align="center">Entrepreneur, Co-founder of @studiobillion, motorider, software nerd, action addict, DIY maker etc etc</h3>
 
 - 📝 I write on my blog [https://esrefbektas.com](https://esrefbektas.com)
 
